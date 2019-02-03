@@ -1,0 +1,62 @@
+baseurl = "https://nitechcommunity.co.uk/"
+title = "NI Tech Community"
+theme = "ghostwriter"
+languageCode = "en-gb"
+copyright = "NI Tech Community"
+
+[Author]
+    name = "NI Tech Community"
+    profile = "https://nitechcommunity.co.uk/"
+
+[Params]
+    intro = true
+    headline = "Latest News"
+    description = ""
+    github = "https://github.com/nitechcommunity"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "News"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Slack"
+    url = "/page/slack/"
+    weight = 2
+
+[[menu.main]]
+    name = "Projects"
+    url = "/page/projects"
+    weight = 3
+
+[[menu.main]]
+    name = "Conferences"
+    url = "/page/conference/"
+    weight = 4
+
+[[menu.main]]
+    name = "User groups"
+    url = "/page/user_groups/"
+    weight = 5
+
+[[menu.main]]
+    name = "Code of conduct"
+    url = "/page/code_of_conduct/"
+    weight = 6
