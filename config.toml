@@ -1,4 +1,4 @@
-baseurl = "https://nitechcommunity.co.uk/"
+baseurl = "https://nitechcommunity.netlify.com/"
 title = "NI Tech Community"
 theme = "ghostwriter"
 languageCode = "en-gb"
