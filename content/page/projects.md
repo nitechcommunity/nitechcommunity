@@ -8,10 +8,9 @@ Open source projects created by the **local developer community**.
 
 A list of user submitted projects from across Nothern Ireland.
 
-| Name  |  Description  | Source Code  |
-|---|---|---|
-| [Muxer](https://muxer.co.uk)  | A developer community for everyone with an interest in Technology & Meetups  | [Github](https://github.com/apoclyps/my-dev-space)  |
-|   |   |   |   |
+| Name  |  Description  |
+|---|---|
+| ![Muxer](https://secure.meetupstatic.com/photos/event/3/d/5/c/highres_477915708.jpeg) | [Muxer](https://muxer.co.uk) <br><br> Muxer, an open-source events aggregator build using React and Python. New ideas are encouraged and contributions of all sizes are welcome so raise an issue if there is something you would like to work on that isn't listed. <br><br> [Source Code](https://github.com/apoclyps/my-dev-space)  |
 
 
 #### Submitting a project
