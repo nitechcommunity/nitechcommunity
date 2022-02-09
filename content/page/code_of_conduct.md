@@ -13,7 +13,6 @@ The current admins are:
 - Claire Wilgar (@clairebones)
 - Mark Allan (@MarkXA)
 - Maurice Kelly (@mo)
-- Victoria McCallum (@victoria)
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
